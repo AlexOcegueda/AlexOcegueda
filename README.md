@@ -1,6 +1,6 @@
 ### Hi and Welcome to My Profile!
 
-- 🔭 I’m currently working on creating on a Linux Distro with a Friend 
+- 🔭 I’m currently working on creating a Linux Distro with a friend 
 - 🌱 I’m currently learning the C language 
 - 💬 Ask me about Java or any book recommendations. I have plenty programming and non-programming suggestions! 
 - 📫 How to reach me: Email - AlexOcegueda59@gmail.com || LinkedIn - @www.linkedin.com/in/alexocegueda
