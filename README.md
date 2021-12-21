@@ -1,7 +1,7 @@
 ### Hi and Welcome to My Profile!
 
-- 🔭 I’m currently working on creating a Linux Distro with a friend 
-- 🌱 I’m currently learning the C language 
+- 🔭 I’m currently working with Arduinos 
+- 🌱 I’m currently learning Arch Linux 
 - 💬 Ask me about Java or any book recommendations. I have plenty programming and non-programming suggestions! 
 - 📫 How to reach me: Email - AlexOcegueda59@gmail.com || LinkedIn - www.linkedin.com/in/alexocegueda
 - 😄 Pronouns: He/Him
