@@ -1,6 +1,6 @@
 ### Hi and Welcome to My Profile!
 
-- 🔭 I’m currently working on a Caesar Cipher Program. 
+- 🔭 I’m currently working on a Moral Compass Website. 
 - 🌱 I’m currently learning Python.
 - 💬 Ask me any book recommendations. I have plenty programming and non-programming suggestions! 
 - 📫 How to reach me: Email - AlexOcegueda59@gmail.com || LinkedIn - www.linkedin.com/in/alexocegueda
