@@ -1,7 +1,7 @@
 ### Hi and Welcome to My Profile!
 
-- 🔭 I’m currently working on a Moral Compass Website. 
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on creating a recipe website. 
+- 🌱 I’m currently learning more about JavaScript.
 - 💬 Ask me any book recommendations. I have plenty programming and non-programming suggestions! 
 - 📫 How to reach me: Email - AlexOcegueda59@gmail.com || LinkedIn - www.linkedin.com/in/alexocegueda
 - 😄 Pronouns: He/Him
